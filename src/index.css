@@ -1,0 +1,55 @@
+.main{
+  background-color:aliceblue;
+    width: calc(45vh);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+ .reaction{
+  display: flex;
+  justify-content: space-between;
+}
+.comment{
+  display: flex;
+}
+
+
+.about-post{
+  display: flex;
+  flex-direction: row;
+  padding-left: 10px;
+  padding-top: 10px;
+
+}
+
+.pro-img img{
+  height: 40px;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.info{
+  margin-left: 10px;
+}
+
+.info p{
+  line-height: 1px;
+}
+
+.postimg img{
+  width: calc(45vh);
+  height: 250px;
+}
+
+.my-btn button{
+  padding: 10px;
+  /* border-radius: 10px; */
+  border: none;
+  margin-left: 20px;
+  cursor: pointer;
+  background: transparent;
+}
