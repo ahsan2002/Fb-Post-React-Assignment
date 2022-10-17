@@ -17,6 +17,9 @@
   display: flex;
 }
 
+.time{
+  margin-top: 20px;
+}
 
 .about-post{
   display: flex;

@@ -12,7 +12,7 @@ const Post = (props) => {
 
                     <div className='info'>
                         <p className='name'>{props.myname}</p>
-                        <p className='time'>{props.time}🌐</p>
+                        <p  className='time'>{props.time} 🌐</p>
                     </div>
 
                 </div>
